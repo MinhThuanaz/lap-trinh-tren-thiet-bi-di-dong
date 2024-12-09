@@ -1,4 +1,4 @@
-{
+
   "posts": [
 		{
 			"id": 1,
@@ -19,7 +19,3 @@
 			"base64Image": ""
 		}
 	],
-  "profile": {
-    "name": "typicode"
-  }
-}
